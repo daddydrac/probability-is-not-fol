@@ -1,6 +1,6 @@
-# Formula Key for `probability_theory_extension_of_logic.ipynb`
+# Formula Key for `probability_theory_extension_of_logic`
 
-This README is a companion guide for the notebook. It explains the notation, symbols, and formulas used in the argument that probability theory is **partly** an extension of logic, but not identical to classical logic or First-Order Logic.
+This README is a companion guide for the notebook. It explains the notation, symbols, and formulas used in the argument that probability theory is **partly** an extension of logic, but not identical to classical logic or First-Order Logic. It is a counterpoint to the video: https://www.youtube.com/watch?v=0yF9TvMeAzM
 
 ## Core idea
 
